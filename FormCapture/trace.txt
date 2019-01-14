@@ -1,0 +1,9 @@
+========================== START 12/01/2019 16:24:09 ==========================
+-------------------------- TraceLevelSwitch - Error Tracing Enabled
+-------------------------- TraceLevelSwitch - Warning Tracing Enabled
+========================== START 12/01/2019 16:25:17 ==========================
+-------------------------- TraceLevelSwitch - Error Tracing Enabled
+-------------------------- TraceLevelSwitch - Warning Tracing Enabled
+========================== START 14/01/2019 09:53:24 ==========================
+-------------------------- TraceLevelSwitch - Error Tracing Enabled
+-------------------------- TraceLevelSwitch - Warning Tracing Enabled

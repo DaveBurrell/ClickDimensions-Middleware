@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FormCapture.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    
+    <Setting Name="Referrer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://domain.com</Value>
+    </Setting>
+    <Setting Name="CustomForm_FormCaptureURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://analytics-eu.clickdimensions.com/forms/h/a5dxcfUqEc0ebC9VZymPaQ</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

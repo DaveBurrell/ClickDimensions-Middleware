@@ -1,0 +1,5 @@
+C:\Users\davej\Desktop\Click Dimensions FormCapture Middleware\FormCapture\bin\FormCapture.dll.config
+C:\Users\davej\Desktop\Click Dimensions FormCapture Middleware\FormCapture\bin\FormCapture.dll
+C:\Users\davej\Desktop\Click Dimensions FormCapture Middleware\FormCapture\bin\FormCapture.pdb
+C:\Users\davej\Desktop\Click Dimensions FormCapture Middleware\FormCapture\obj\Debug\FormCapture.dll
+C:\Users\davej\Desktop\Click Dimensions FormCapture Middleware\FormCapture\obj\Debug\FormCapture.pdb
